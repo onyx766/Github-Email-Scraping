@@ -1,0 +1,21 @@
+{
+  "name": "github-email-scraping",
+  "version": "1.0.0",
+  "description": "Search GitHub users by country, showing public profile info",
+  "homepage": "https://github.com/onyx766/Github-Email-Scraping#readme",
+  "bugs": {
+    "url": "https://github.com/onyx766/Github-Email-Scraping/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onyx766/Github-Email-Scraping.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
